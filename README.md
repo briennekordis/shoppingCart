@@ -5,7 +5,7 @@ shoppingCart
 - [Description & General Info](https://github.com/briennekordis/shoppingCart#description--general-info)
 - [Languages & Technologies](https://github.com/briennekordis/shoppingCart#languages--technologies)
 - [Setup & Use](https://github.com/briennekordis/shoppingCart#setup--use)
-- [Suggestions for Improvement]()
+- [Suggestions for Improvement](https://github.com/briennekordis/shoppingCart/blob/main/README.md#suggestions-for-improvement)
 - [Licensing Information](https://github.com/briennekordis/shoppingCart#licensing-information)
 
 
